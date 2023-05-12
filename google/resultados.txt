@@ -1,0 +1,6 @@
+;https://www.python.org/
+;https://www.udemy.com/course/intro_python/
+;https://opensource.com/resources/python
+;https://www.kaggle.com/learn/python
+;https://www.linkedin.com/learning/topics/python
+;https://pythontutor.com/

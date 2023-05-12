@@ -1,0 +1,1 @@
+python C:\Users\Gustavo Zilli\Desktop\Dev\env\email\script.py
